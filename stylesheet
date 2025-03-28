@@ -714,7 +714,7 @@ img {
     */
 }
 .super-footer.corners .super-footer__content, .super-footer.floating .super-footer__content {
-    grid-template-areas: "logo logo logo";
+    grid-template-areas: "logo logo logo"
     "icons icons icons"
     "links links links"
     "divider divider divider"
